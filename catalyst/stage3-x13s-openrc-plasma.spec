@@ -28,7 +28,7 @@ stage4/packages:
         sys-power/pd-mapper::x13s-overlay
         sys-power/qrtr::x13s-overlay
         media-libs/alsa-ucm-conf
-        app-misc/hyfetch
+        app-misc/fastfetch
         app-misc/screen
         sys-boot/grub
         www-client/firefox
